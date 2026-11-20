@@ -56,3 +56,4 @@
 - **파일 확인:** 각 릴리스 설명에 `HwpMacroClick.exe` 의 SHA-256 값이 적혀 있습니다. PowerShell 에서
   `Get-FileHash .\HwpMacroClick.exe -Algorithm SHA256` 로 계산해 비교할 수 있습니다.
 - **업데이트:** 새 버전은 이 저장소의 Releases 에 올라옵니다. 지금은 직접 받아서 교체해야 하며, 자동 업데이트는 준비 중입니다.
+- **연락처:** 프로그램에 관한 오류나 건의사항은 skwonnyg@gmail.com 으로 보내주세요.
